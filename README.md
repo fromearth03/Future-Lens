@@ -82,9 +82,8 @@ This repository includes the executable version of the application.
 
 ### Steps to Run
 
-1. Download files from the **release** folder  
-2. Ensure all `.dll` files remain in the same directory as `.exe`  
-3. Run `FutureLens.exe`
+1. Ensure all `.dll` files remain in the same directory as `.exe`  
+2. Run `Pulsar.exe`
 
 No additional installation required.
 
