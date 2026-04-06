@@ -1,0 +1,3778 @@
+    
+                                     ITEMS                                      
+    50,
+    sentiment_score_definition: x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish,
+    relevance_score_definition: 0 < x <= 1, with a higher score indicating higher relevance.,
+                                      FEED                                      
+    
+    
+                                     TITLE                                      
+    5 Tech Stocks to Buy as AI Hype Fizzles - Apple  ( NASDAQ:AAPL ) , CACI International  ( NYSE:CACI ) ,
+                                      URL                                       
+    https://www.benzinga.com/24/12/42656752/5-tech-stocks-to-buy-as-ai-hype-fizzles,
+    time_published: 20241223T183836,
+                                    AUTHORS                                     
+    
+    Benzinga Research Team
+    ,
+                                    SUMMARY                                     
+    Fed chair Powell dropped a big lump of coal in the market's stocking last week as he reigned in the Fed's rate cut projections for 2025. While the Fed cut its key benchmark rate by the expected 25 basis points, Powell tempered expectations on future rate cuts based on sticky inflation data and ...,
+    banner_image: https://editorial-assets.benzinga.com/wp-content/uploads/2024/12/23133708/Goog-1-1024x364.png,
+                                     SOURCE                                     
+    Benzinga,
+    category_within_source: Trading,
+    source_domain: www.benzinga.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Economy - Monetary,
+    relevance_score: 0.310843
+    ,
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 0.999976
+    ,
+    
+                                     TOPIC                                      
+    Manufacturing,
+    relevance_score: 0.5
+    ,
+    
+                                     TOPIC                                      
+    Earnings,
+    relevance_score: 0.795202
+    ,
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 0.5
+    
+    ,
+    overall_sentiment_score: 0.140923,
+    overall_sentiment_label: Neutral,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    QUBT,
+    relevance_score: 0.142565,
+    ticker_sentiment_score: 0.206277,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    GOOG,
+    relevance_score: 0.142565,
+    ticker_sentiment_score: 0.121352,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    NVDA,
+    relevance_score: 0.035821,
+    ticker_sentiment_score: 0.030887,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.107175,
+    ticker_sentiment_score: 0.082911,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    MU,
+    relevance_score: 0.035821,
+    ticker_sentiment_score: -0.04587,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    CACI,
+    relevance_score: 0.107175,
+    ticker_sentiment_score: 0.115137,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    RGTI,
+    relevance_score: 0.07157,
+    ticker_sentiment_score: 0.167444,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    UBER,
+    relevance_score: 0.107175,
+    ticker_sentiment_score: 0.083781,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    FOREX:GBP,
+    relevance_score: 0.035821,
+    ticker_sentiment_score: 0.231565,
+    ticker_sentiment_label: Somewhat-Bullish
+    
+    
+    ,
+    
+                                     TITLE                                      
+    It's a Sporting Time of Year. Time to Take a Look at Academy Sports and Outdoors.,
+                                      URL                                       
+    https://www.fool.com/investing/2024/12/23/its-a-sporting-time-of-year-time-to-take-a-look-at/,
+    time_published: 20241223T174900,
+                                    AUTHORS                                     
+    
+    Motley Fool Staff
+    ,
+                                    SUMMARY                                     
+    We also answer listener questions about diversification in the S&P 500.,
+    banner_image: https://g.foolcdn.com/editorial/images/800926/dec10.png,
+                                     SOURCE                                     
+    Motley Fool,
+    category_within_source: n/a,
+    source_domain: www.fool.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Energy & Transportation,
+    relevance_score: 0.2
+    ,
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 0.2
+    ,
+    
+                                     TOPIC                                      
+    Finance,
+    relevance_score: 0.2
+    ,
+    
+                                     TOPIC                                      
+    Economy - Monetary,
+    relevance_score: 0.360215
+    ,
+    
+                                     TOPIC                                      
+    Retail & Wholesale,
+    relevance_score: 0.2
+    ,
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 1.0
+    ,
+    
+                                     TOPIC                                      
+    Manufacturing,
+    relevance_score: 0.2
+    ,
+    
+                                     TOPIC                                      
+    Earnings,
+    relevance_score: 0.928139
+    
+    ,
+    overall_sentiment_score: 0.116964,
+    overall_sentiment_label: Neutral,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    NVDA,
+    relevance_score: 0.015197,
+    ticker_sentiment_score: 0.064501,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    UAL,
+    relevance_score: 0.007599,
+    ticker_sentiment_score: 0.046969,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.015197,
+    ticker_sentiment_score: 0.064501,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    AVGO,
+    relevance_score: 0.007599,
+    ticker_sentiment_score: 0.072789,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    MDNDF,
+    relevance_score: 0.015197,
+    ticker_sentiment_score: 0.06707,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    BRK-A,
+    relevance_score: 0.007599,
+    ticker_sentiment_score: 0.072789,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    GS,
+    relevance_score: 0.015197,
+    ticker_sentiment_score: 0.064501,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    IVZ,
+    relevance_score: 0.007599,
+    ticker_sentiment_score: 0.046969,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    DKS,
+    relevance_score: 0.015197,
+    ticker_sentiment_score: -0.008534,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    SNBR,
+    relevance_score: 0.007599,
+    ticker_sentiment_score: 0.101369,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    MSFT,
+    relevance_score: 0.015197,
+    ticker_sentiment_score: 0.064501,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    TSLA,
+    relevance_score: 0.007599,
+    ticker_sentiment_score: 0.072789,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    SBUX,
+    relevance_score: 0.007599,
+    ticker_sentiment_score: 0.101369,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    ATZAF,
+    relevance_score: 0.090989,
+    ticker_sentiment_score: 0.068996,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    ASO,
+    relevance_score: 0.022794,
+    ticker_sentiment_score: -0.009008,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    AMZN,
+    relevance_score: 0.007599,
+    ticker_sentiment_score: 0.072789,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    WMT,
+    relevance_score: 0.007599,
+    ticker_sentiment_score: 0.026934,
+    ticker_sentiment_label: Neutral
+    
+    
+    ,
+    
+                                     TITLE                                      
+    Market Clubhouse Morning Memo - December 23rd, 2024  ( Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META and TSLA )  - Invesco QQQ Trust, Series 1  ( NASDAQ:QQQ ) , SPDR S&P 500  ( ARCA:SPY ) ,
+                                      URL                                       
+    https://www.benzinga.com/trading-ideas/24/12/42653690/market-clubhouse-morning-memo-december-23rd-2024-trade-strategy-for-spy-qqq-aapl-msft-nvda-googl-me,
+    time_published: 20241223T165516,
+                                    AUTHORS                                     
+    
+    RIPS
+    ,
+                                    SUMMARY                                     
+    Good Morning Traders! In today's Market Clubhouse Morning Memo, we will discuss SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, and TSLA. Our proprietary formula, exclusive to Market Clubhouse, dictates these price levels. This dynamic equation takes into account price, volume, and options flow.,
+    banner_image: https://www.benzinga.com/next-assets/images/schema-image-default.png,
+                                     SOURCE                                     
+    Benzinga,
+    category_within_source: Trading,
+    source_domain: www.benzinga.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Economy - Fiscal,
+    relevance_score: 0.158519
+    ,
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 0.999998
+    ,
+    
+                                     TOPIC                                      
+    Manufacturing,
+    relevance_score: 0.5
+    ,
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 0.5
+    
+    ,
+    overall_sentiment_score: 0.130724,
+    overall_sentiment_label: Neutral,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    MSFT,
+    relevance_score: 0.097193,
+    ticker_sentiment_score: 0.008768,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    GOOG,
+    relevance_score: 0.032469,
+    ticker_sentiment_score: 0.075146,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    NVDA,
+    relevance_score: 0.161277,
+    ticker_sentiment_score: 0.078097,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.129342,
+    ticker_sentiment_score: 0.060981,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    TSLA,
+    relevance_score: 0.097193,
+    ticker_sentiment_score: -0.036892,
+    ticker_sentiment_label: Neutral
+    
+    
+    ,
+    
+                                     TITLE                                      
+    Bullish Technical Signal, Santa Claus Rally, Taking Advantage Of Hopium - Invesco QQQ Trust, Series 1  ( NASDAQ:QQQ ) , SPDR Gold Trust  ( ARCA:GLD ) ,
+                                      URL                                       
+    https://www.benzinga.com/trading-ideas/24/12/42653670/bullish-technical-signal-santa-claus-rally-taking-advantage-of-hopium,
+    time_published: 20241223T165434,
+                                    AUTHORS                                     
+    
+    The Arora Report
+    ,
+                                    SUMMARY                                     
+    To gain an edge, this is what you need to know today. An enlarged chart of SPDR S&P 500 ETF Trust SPY which represents the benchmark stock market index S&P 500 ( SPX ) . The chart shows Friday was an outside day. It is a bullish technical signal.,
+    banner_image: https://thearorareport.com/wp-content/uploads/2024/12/2024-12-23_08h02_56.png,
+                                     SOURCE                                     
+    Benzinga,
+    category_within_source: Trading,
+    source_domain: www.benzinga.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Economy - Monetary,
+    relevance_score: 0.451494
+    ,
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 1.0
+    ,
+    
+                                     TOPIC                                      
+    Manufacturing,
+    relevance_score: 0.333333
+    ,
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 0.333333
+    ,
+    
+                                     TOPIC                                      
+    Finance,
+    relevance_score: 0.333333
+    
+    ,
+    overall_sentiment_score: 0.274769,
+    overall_sentiment_label: Somewhat-Bullish,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    MSFT,
+    relevance_score: 0.041755,
+    ticker_sentiment_score: 0.0,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    GOOG,
+    relevance_score: 0.041755,
+    ticker_sentiment_score: 0.190727,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    META,
+    relevance_score: 0.041755,
+    ticker_sentiment_score: 0.190727,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    NVDA,
+    relevance_score: 0.041755,
+    ticker_sentiment_score: 0.190727,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.041755,
+    ticker_sentiment_score: 0.0,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    TSLA,
+    relevance_score: 0.041755,
+    ticker_sentiment_score: 0.190727,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    IVZ,
+    relevance_score: 0.041755,
+    ticker_sentiment_score: 0.133064,
+    ticker_sentiment_label: Neutral
+    
+    
+    ,
+    
+                                     TITLE                                      
+    Apple Stock Hits All-Time High: Is the Tech Giant Too Extended?,
+                                      URL                                       
+    https://www.zacks.com/commentary/2387010/apple-stock-hits-all-time-high-is-the-tech-giant-too-extended,
+    time_published: 20241223T162600,
+                                    AUTHORS                                     
+    
+    Bryan Hayes
+    ,
+                                    SUMMARY                                     
+    Buying stocks when they make new highs has proven to be profitable throughout history.,
+    banner_image: https://staticx-tuner.zacks.com/images/articles/charts/32/88589.jpg?v=1704674540,
+                                     SOURCE                                     
+    Zacks Commentary,
+    category_within_source: n/a,
+    source_domain: www.zacks.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Economy - Monetary,
+    relevance_score: 0.158519
+    ,
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 0.365926
+    ,
+    
+                                     TOPIC                                      
+    Earnings,
+    relevance_score: 0.682689
+    ,
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 1.0
+    
+    ,
+    overall_sentiment_score: 0.319412,
+    overall_sentiment_label: Somewhat-Bullish,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.863144,
+    ticker_sentiment_score: 0.499613,
+    ticker_sentiment_label: Bullish
+    
+    
+    ,
+    
+                                     TITLE                                      
+    More & More Regulations Under Trump: How Will Tech Giants Cope in 2025?,
+                                      URL                                       
+    https://www.zacks.com/stock/news/2386985/more-more-regulations-under-trump-how-will-tech-giants-cope-in-2025,
+    time_published: 20241223T155400,
+                                    AUTHORS                                     
+    
+    Zacks Equity Research
+    ,
+                                    SUMMARY                                     
+    In Trump's second term, tech giants like GOOGL, MSFT, META and AAPL face tough regulations on AI, antitrust and privacy.,
+    banner_image: https://staticx-tuner.zacks.com/images/articles/main/b3/738.jpg,
+                                     SOURCE                                     
+    Zacks Commentary,
+    category_within_source: n/a,
+    source_domain: www.zacks.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Earnings,
+    relevance_score: 0.576289
+    ,
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 1.0
+    ,
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 0.796627
+    
+    ,
+    overall_sentiment_score: 0.249834,
+    overall_sentiment_label: Somewhat-Bullish,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    MSFT,
+    relevance_score: 0.345674,
+    ticker_sentiment_score: 0.268562,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    GOOG,
+    relevance_score: 0.133346,
+    ticker_sentiment_score: 0.214772,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    META,
+    relevance_score: 0.304787,
+    ticker_sentiment_score: 0.240066,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.424317,
+    ticker_sentiment_score: 0.130611,
+    ticker_sentiment_label: Neutral
+    
+    
+    ,
+    
+                                     TITLE                                      
+    Performance Comparison: Apple And Competitors In Technology Hardware, Storage & Peripherals Industry - Apple  ( NASDAQ:AAPL ) ,
+                                      URL                                       
+    https://www.benzinga.com/insights/news/24/12/42649302/performance-comparison-apple-and-competitors-in-technology-hardware-storage-amp-peripherals-industr,
+    time_published: 20241223T150030,
+                                    AUTHORS                                     
+    
+    Benzinga Insights
+    ,
+                                    SUMMARY                                     
+    In the dynamic and fiercely competitive business environment, conducting a thorough analysis of companies is crucial for investors and industry enthusiasts. In this article, we will perform an extensive industry comparison, evaluating Apple AAPL in relation to its major competitors in the ...,
+    banner_image: https://www.benzinga.com/files/images/story/2024/1734966027_0.png,
+                                     SOURCE                                     
+    Benzinga,
+    category_within_source: Trading,
+    source_domain: www.benzinga.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Earnings,
+    relevance_score: 0.875462
+    ,
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 1.0
+    ,
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 0.459462
+    
+    ,
+    overall_sentiment_score: 0.254794,
+    overall_sentiment_label: Somewhat-Bullish,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.456544,
+    ticker_sentiment_score: 0.300271,
+    ticker_sentiment_label: Somewhat-Bullish
+    
+    
+    ,
+    
+                                     TITLE                                      
+    Apple Inc.  ( AAPL )  is Attracting Investor Attention: Here is What You Should Know,
+                                      URL                                       
+    https://www.zacks.com/stock/news/2386799/apple-inc-aapl-is-attracting-investor-attention-here-is-what-you-should-know,
+    time_published: 20241223T140014,
+                                    AUTHORS                                     
+    
+    Zacks Equity Research
+    ,
+                                    SUMMARY                                     
+    Apple (AAPL) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.,
+    banner_image: https://staticx-tuner.zacks.com/images/default_article_images/default257.jpg,
+                                     SOURCE                                     
+    Zacks Commentary,
+    category_within_source: n/a,
+    source_domain: www.zacks.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Earnings,
+    relevance_score: 1.0
+    ,
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 1.0
+    ,
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 0.5855
+    
+    ,
+    overall_sentiment_score: 0.228313,
+    overall_sentiment_label: Somewhat-Bullish,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.482078,
+    ticker_sentiment_score: 0.17823,
+    ticker_sentiment_label: Somewhat-Bullish
+    
+    
+    ,
+    
+                                     TITLE                                      
+    Alphabet Defends DOJ Case, 'New Buyback' Likely From This '2025 Top Pick' - Alphabet  ( NASDAQ:GOOGL ) ,
+                                      URL                                       
+    https://www.benzinga.com/24/12/42646134/alphabet-defends-doj-case-new-buyback-likely-from-this-2025-top-pick,
+    time_published: 20241223T132921,
+                                    AUTHORS                                     
+    
+    Surbhi Jain
+    ,
+                                    SUMMARY                                     
+    Google-parent Alphabet Inc GOOGL GOOG has laid out its remedies proposal in the high-stakes search distribution case with the Department of Justice ( DOJ ) . JPMorgan analyst Doug Anmuth notes that Google's focus on non-exclusivity and increased flexibility aligns with its strategy to limit ...,
+    banner_image: https://cdn.benzinga.com/files/images/story/2024/12/23/Alphabet-Google-Shutterstock-copy.jpeg?width=1200&height=800&fit=crop,
+                                     SOURCE                                     
+    Benzinga,
+    category_within_source: Trading,
+    source_domain: www.benzinga.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Earnings,
+    relevance_score: 0.744043
+    ,
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 1.0
+    ,
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 0.108179
+    
+    ,
+    overall_sentiment_score: 0.396753,
+    overall_sentiment_label: Bullish,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    MSFT,
+    relevance_score: 0.154455,
+    ticker_sentiment_score: 0.315021,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    GOOG,
+    relevance_score: 0.303175,
+    ticker_sentiment_score: 0.313592,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    META,
+    relevance_score: 0.154455,
+    ticker_sentiment_score: 0.316293,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.154455,
+    ticker_sentiment_score: 0.315021,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    SPOT,
+    relevance_score: 0.154455,
+    ticker_sentiment_score: 0.316293,
+    ticker_sentiment_label: Somewhat-Bullish
+    
+    
+    ,
+    
+                                     TITLE                                      
+    Elon Musk's xAI To Expand With New Chatbot App - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ,
+                                      URL                                       
+    https://www.benzinga.com/24/12/42645821/elon-musks-xai-expands-with-new-chatbot-app,
+    time_published: 20241223T131728,
+                                    AUTHORS                                     
+    
+    Anusuya Lahiri
+    ,
+                                    SUMMARY                                     
+    Elon Musk's artificial intelligence company, xAI, is testing a standalone Apple Inc AAPL iOS app for its chatbot, Grok. Grok was now available only to users of Musk-owned X ( formerly Twitter Inc ) .,
+    banner_image: https://cdn.benzinga.com/files/images/story/2024/12/23/Elon-Musk-xAI-Grok.jpeg?width=1200&height=800&fit=crop,
+                                     SOURCE                                     
+    Benzinga,
+    category_within_source: News,
+    source_domain: www.benzinga.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 0.5
+    ,
+    
+                                     TOPIC                                      
+    Manufacturing,
+    relevance_score: 0.5
+    
+    ,
+    overall_sentiment_score: 0.344728,
+    overall_sentiment_label: Somewhat-Bullish,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    NVDA,
+    relevance_score: 0.128822,
+    ticker_sentiment_score: 0.239491,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.254307,
+    ticker_sentiment_score: 0.284875,
+    ticker_sentiment_label: Somewhat-Bullish
+    
+    
+    ,
+    
+                                     TITLE                                      
+    Should SPDR Portfolio S&P 500 ETF  ( SPLG )  Be on Your Investing Radar?,
+                                      URL                                       
+    https://www.zacks.com/stock/news/2386640/should-spdr-portfolio-sp-500-etf-splg-be-on-your-investing-radar,
+    time_published: 20241223T112007,
+                                    AUTHORS                                     
+    
+    Zacks Equity Research
+    ,
+                                    SUMMARY                                     
+    Style Box ETF report for ...,
+    banner_image: https://staticx-tuner.zacks.com/images/default_article_images/default119.jpg,
+                                     SOURCE                                     
+    Zacks Commentary,
+    category_within_source: n/a,
+    source_domain: www.zacks.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 1.0
+    ,
+    
+                                     TOPIC                                      
+    Manufacturing,
+    relevance_score: 0.333333
+    ,
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 0.333333
+    ,
+    
+                                     TOPIC                                      
+    Finance,
+    relevance_score: 0.333333
+    
+    ,
+    overall_sentiment_score: 0.154641,
+    overall_sentiment_label: Somewhat-Bullish,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    MSFT,
+    relevance_score: 0.132733,
+    ticker_sentiment_score: 0.070997,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    NVDA,
+    relevance_score: 0.132733,
+    ticker_sentiment_score: 0.070997,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.132733,
+    ticker_sentiment_score: 0.070997,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    STT,
+    relevance_score: 0.066598,
+    ticker_sentiment_score: 0.048067,
+    ticker_sentiment_label: Neutral
+    
+    
+    ,
+    
+                                     TITLE                                      
+    Is WisdomTree U.S. Total Dividend ETF  ( DTD )  a Strong ETF Right Now?,
+                                      URL                                       
+    https://www.zacks.com/stock/news/2386650/is-wisdomtree-us-total-dividend-etf-dtd-a-strong-etf-right-now,
+    time_published: 20241223T112006,
+                                    AUTHORS                                     
+    
+    Zacks Equity Research
+    ,
+                                    SUMMARY                                     
+    Smart Beta ETF report for DTD ...,
+    banner_image: https://staticx-tuner.zacks.com/images/default_article_images/default352.jpg,
+                                     SOURCE                                     
+    Zacks Commentary,
+    category_within_source: n/a,
+    source_domain: www.zacks.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 1.0
+    ,
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 1.0
+    
+    ,
+    overall_sentiment_score: 0.229327,
+    overall_sentiment_label: Somewhat-Bullish,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    MSFT,
+    relevance_score: 0.118064,
+    ticker_sentiment_score: 0.054927,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    WT,
+    relevance_score: 0.344074,
+    ticker_sentiment_score: 0.242895,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.118064,
+    ticker_sentiment_score: 0.054927,
+    ticker_sentiment_label: Neutral
+    
+    
+    ,
+    
+                                     TITLE                                      
+    Warren Buffett Recently Shunned His Favorite Stock for the First Time Since 2018, and It Could Spell Bad News for Wall Street,
+                                      URL                                       
+    https://www.fool.com/investing/2024/12/23/warren-buffett-shunned-stock-first-2018-wall-stree/,
+    time_published: 20241223T110300,
+                                    AUTHORS                                     
+    
+    Anthony Di Pizio
+    ,
+                                    SUMMARY                                     
+    Had you invested $1,000 in the S&P 500 in 1965, it would be worth around $325,053 today. However, had you invested $1,000 in shares of Berkshire Hathaway ( NYSE: BRK.A ) ( NYSE: BRK.B ) at the very same time, it would now be worth a whopping $42.5 million.,
+    banner_image: https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F801714%2Fwarren-buffett-smiling-surrounded-by-cameras.jpg&op=resize&w=700,
+                                     SOURCE                                     
+    Motley Fool,
+    category_within_source: n/a,
+    source_domain: www.fool.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Retail & Wholesale,
+    relevance_score: 0.333333
+    ,
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 0.996023
+    ,
+    
+                                     TOPIC                                      
+    Earnings,
+    relevance_score: 0.158519
+    ,
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 0.333333
+    ,
+    
+                                     TOPIC                                      
+    Finance,
+    relevance_score: 0.333333
+    
+    ,
+    overall_sentiment_score: 0.0854,
+    overall_sentiment_label: Neutral,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.395705,
+    ticker_sentiment_score: 0.179823,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    COF,
+    relevance_score: 0.045918,
+    ticker_sentiment_score: 0.098529,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    BAC,
+    relevance_score: 0.045918,
+    ticker_sentiment_score: 0.098529,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    FND,
+    relevance_score: 0.045918,
+    ticker_sentiment_score: 0.098529,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    PARA,
+    relevance_score: 0.045918,
+    ticker_sentiment_score: 0.098529,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    BRK-A,
+    relevance_score: 0.045918,
+    ticker_sentiment_score: 0.089604,
+    ticker_sentiment_label: Neutral
+    
+    
+    ,
+    
+                                     TITLE                                      
+    History Says the Nasdaq Could See Strong Gains in 2025: Here Are the Top Nasdaq Stocks From Warren Buffett and Bill Ackman Going Into the New Year,
+                                      URL                                       
+    https://www.fool.com/investing/2024/12/23/history-says-the-nasdaq-could-see-strong-gains-in/,
+    time_published: 20241223T100000,
+                                    AUTHORS                                     
+    
+    Jon Quast
+    ,
+                                    SUMMARY                                     
+    The stock market is so hot that I'm struggling to wrap my mind around the numbers. As of this writing, the Nasdaq Composite Index ( NASDAQINDEX: ^IXIC ) is up 30% in 2024. This is much more than the usual gain. And it might have some investors worried that the Nasdaq index is too hot and due for ...,
+    banner_image: https://g.foolcdn.com/editorial/images/801448/affluent-young-person-smiles-reads-computer.jpg,
+                                     SOURCE                                     
+    Motley Fool,
+    category_within_source: n/a,
+    source_domain: www.fool.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 0.5
+    ,
+    
+                                     TOPIC                                      
+    Finance,
+    relevance_score: 0.5
+    ,
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 0.999995
+    
+    ,
+    overall_sentiment_score: 0.210279,
+    overall_sentiment_label: Somewhat-Bullish,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    NFLX,
+    relevance_score: 0.05749,
+    ticker_sentiment_score: 0.203,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    GOOG,
+    relevance_score: 0.114682,
+    ticker_sentiment_score: 0.215075,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.281584,
+    ticker_sentiment_score: 0.273401,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    SNOW,
+    relevance_score: 0.05749,
+    ticker_sentiment_score: 0.203,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    DRVN,
+    relevance_score: 0.05749,
+    ticker_sentiment_score: 0.035,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    BRK-A,
+    relevance_score: 0.114682,
+    ticker_sentiment_score: 0.188365,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    PSHZF,
+    relevance_score: 0.05749,
+    ticker_sentiment_score: 0.212,
+    ticker_sentiment_label: Somewhat-Bullish
+    
+    
+    ,
+    
+                                     TITLE                                      
+    Prediction: Nvidia Will Become the First $4 Trillion Stock in 2025,
+                                      URL                                       
+    https://www.fool.com/investing/2024/12/23/prediction-nvidia-will-become-the-first-4-trillion/,
+    time_published: 20241223T094800,
+                                    AUTHORS                                     
+    
+    Keith Speights
+    ,
+                                    SUMMARY                                     
+    It's the time of year for making predictions about the coming new year. I agree with the Danish proverb, \Prediction is difficult, especially when dealing with the future.\However, I'll go out on a limb and make a prediction about the new year.,
+    banner_image: https://g.foolcdn.com/editorial/images/801559/data-center-woman-holding-laptop.jpg,
+                                     SOURCE                                     
+    Motley Fool,
+    category_within_source: n/a,
+    source_domain: www.fool.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Economy - Monetary,
+    relevance_score: 0.158519
+    ,
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 0.214378
+    ,
+    
+                                     TOPIC                                      
+    Manufacturing,
+    relevance_score: 0.5
+    ,
+    
+                                     TOPIC                                      
+    Earnings,
+    relevance_score: 0.576289
+    ,
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 0.5
+    
+    ,
+    overall_sentiment_score: 0.104786,
+    overall_sentiment_label: Neutral,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    MSFT,
+    relevance_score: 0.388879,
+    ticker_sentiment_score: 0.035144,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    NVDA,
+    relevance_score: 0.616612,
+    ticker_sentiment_score: 0.208887,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.388879,
+    ticker_sentiment_score: 0.126241,
+    ticker_sentiment_label: Neutral
+    
+    
+    ,
+    
+                                     TITLE                                      
+    Why You Should Not Trade Apple Stock Like You're Warren Buffett,
+                                      URL                                       
+    https://www.fool.com/investing/2024/12/23/why-should-not-trade-apple-stock-like-buffett/,
+    time_published: 20241223T092700,
+                                    AUTHORS                                     
+    
+    Will Healy
+    ,
+                                    SUMMARY                                     
+    Despite a rapidly changing tech landscape, few investors are likely to dispute the assertion that Apple ( NASDAQ: AAPL ) stock will remain a long-term winner. While its artificial intelligence ( AI ) capabilities may not receive as much attention as those of Nvidia or Palantir, its massive ...,
+    banner_image: https://g.foolcdn.com/editorial/images/801780/aapl.png,
+                                     SOURCE                                     
+    Motley Fool,
+    category_within_source: n/a,
+    source_domain: www.fool.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 1.0
+    ,
+    
+                                     TOPIC                                      
+    Manufacturing,
+    relevance_score: 0.333333
+    ,
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 0.333333
+    ,
+    
+                                     TOPIC                                      
+    Finance,
+    relevance_score: 0.333333
+    
+    ,
+    overall_sentiment_score: 0.13678,
+    overall_sentiment_label: Neutral,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    NVDA,
+    relevance_score: 0.051441,
+    ticker_sentiment_score: 0.137916,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.754476,
+    ticker_sentiment_score: 0.231589,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    BRK-A,
+    relevance_score: 0.102668,
+    ticker_sentiment_score: -0.010846,
+    ticker_sentiment_label: Neutral
+    
+    
+    ,
+    
+                                     TITLE                                      
+    Warren Buffett Recommends This Index Fund. It Could Turn $500 Per Month Into $968,900,
+                                      URL                                       
+    https://www.fool.com/investing/2024/12/23/warren-buffett-recommends-index-fund-500-to-986900/,
+    time_published: 20241223T091000,
+                                    AUTHORS                                     
+    
+    Trevor Jennewine
+    ,
+                                    SUMMARY                                     
+    Warren Buffett ranks among the most successful investors in American history. Under his leadership, Berkshire Hathaway's share price has grown at 20% annually since 1965. By comparison, the benchmark S&P 500 ( SNPINDEX: ^GSPC ) has returned about 10% annually, including reinvested dividends, ...,
+    banner_image: https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F801923%2Finvestor-6.jpg&op=resize&w=700,
+                                     SOURCE                                     
+    Motley Fool,
+    category_within_source: n/a,
+    source_domain: www.fool.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 0.5
+    ,
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 0.997874
+    ,
+    
+                                     TOPIC                                      
+    Manufacturing,
+    relevance_score: 0.5
+    
+    ,
+    overall_sentiment_score: 0.196701,
+    overall_sentiment_label: Somewhat-Bullish,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    MSFT,
+    relevance_score: 0.067919,
+    ticker_sentiment_score: 0.167644,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    NVDA,
+    relevance_score: 0.067919,
+    ticker_sentiment_score: 0.167644,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    SPGI,
+    relevance_score: 0.067919,
+    ticker_sentiment_score: 0.013132,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.067919,
+    ticker_sentiment_score: 0.167644,
+    ticker_sentiment_label: Somewhat-Bullish
+    
+    
+    ,
+    
+                                     TITLE                                      
+    Apple AirPods To Get Heart Rate, Temperature Sensors, And Cameras To Help With AI Features: Top Analyst - Apple  ( NASDAQ:AAPL ) ,
+                                      URL                                       
+    https://www.benzinga.com/media/24/12/42640232/apple-airpods-to-get-heart-rate-temperature-sensors-and-cameras-to-help-with-ai-features-top-analyst,
+    time_published: 20241223T041811,
+                                    AUTHORS                                     
+    
+    Ananya Gairola
+    ,
+                                    SUMMARY                                     
+    Apple Inc. AAPL is taking its AirPods to the next level with plans to introduce heart rate monitors, temperature sensors, and even cameras to boost AI capabilities. What Happened: In his \Power On\ newsletter, Bloomberg columnist Mark Gurman reported that Apple's teams are currently experimenting ...,
+    banner_image: https://editorial-assets.benzinga.com/wp-content/uploads/2024/12/22230935/Screenshot-2024-12-23-at-9.39.28%E2%80%AFAM-1024x374.png,
+                                     SOURCE                                     
+    Benzinga,
+    category_within_source: News,
+    source_domain: www.benzinga.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 0.5
+    ,
+    
+                                     TOPIC                                      
+    Finance,
+    relevance_score: 0.5
+    ,
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 0.108179
+    
+    ,
+    overall_sentiment_score: 0.353345,
+    overall_sentiment_label: Bullish,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.412861,
+    ticker_sentiment_score: 0.628735,
+    ticker_sentiment_label: Bullish
+    ,
+    
+                                     TICKER                                     
+    MS,
+    relevance_score: 0.107978,
+    ticker_sentiment_score: 0.130721,
+    ticker_sentiment_label: Neutral
+    
+    
+    ,
+    
+                                     TITLE                                      
+    Apple Developing Face ID Smart Doorbell To Unlock Doors By Late 2025 - Apple  ( NASDAQ:AAPL ) ,
+                                      URL                                       
+    https://www.benzinga.com/tech/24/12/42638691/apple-developing-face-id-smart-doorbell-to-unlock-doors-by-late-2025,
+    time_published: 20241222T181524,
+                                    AUTHORS                                     
+    
+    Bibhu Pattnaik
+    ,
+                                    SUMMARY                                     
+    Apple Inc. AAPL is reportedly developing a smart doorbell camera with Face ID technology that could unlock doors using facial recognition. According to Bloomberg's Mark Gurman in his \Power On\ newsletter, the innovative device may be released by the end of 2025 \at the soonest.\,
+    banner_image: https://www.benzinga.com/next-assets/images/schema-image-default.png,
+                                     SOURCE                                     
+    Benzinga,
+    category_within_source: News,
+    source_domain: www.benzinga.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 1.0
+    
+    ,
+    overall_sentiment_score: 0.447816,
+    overall_sentiment_label: Bullish,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.720339,
+    ticker_sentiment_score: 0.589109,
+    ticker_sentiment_label: Bullish
+    
+    
+    ,
+    
+                                     TITLE                                      
+    Instagram Concerned About Challenge In Distinguishing Real And AI-Generated Images, Apple To Launch Foldable iPhone By 2026 & More: Consumer Tech News  ( December 16-20 )  - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ,
+                                      URL                                       
+    https://www.benzinga.com/tech/24/12/42637978/instagram-concerned-about-challenge-in-distinguishing-real-and-ai-generated-images-apple-to-launch-foldable-,
+    time_published: 20241222T130041,
+                                    AUTHORS                                     
+    
+    Lekha Gupta
+    ,
+                                    SUMMARY                                     
+    In a significant move to bolster the domestic semiconductor industry, the U.S. Commerce Department has approved a $406 million grant for Taiwan's GlobalWafers. This funding is aimed at enhancing silicon wafer production within the United States.,
+    banner_image: https://cdn.benzinga.com/files/images/story/2024/12/22/Instagram-Photo-by-rafapress-on-Shutters.jpeg?width=1200&height=800&fit=crop,
+                                     SOURCE                                     
+    Benzinga,
+    category_within_source: News,
+    source_domain: www.benzinga.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 0.5
+    ,
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 0.108179
+    ,
+    
+                                     TOPIC                                      
+    Manufacturing,
+    relevance_score: 0.5
+    
+    ,
+    overall_sentiment_score: 0.246663,
+    overall_sentiment_label: Somewhat-Bullish,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    MSFT,
+    relevance_score: 0.184834,
+    ticker_sentiment_score: 0.059685,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    SSNLF,
+    relevance_score: 0.123844,
+    ticker_sentiment_score: -0.149498,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    MDLZ,
+    relevance_score: 0.123844,
+    ticker_sentiment_score: 0.198156,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    META,
+    relevance_score: 0.123844,
+    ticker_sentiment_score: -0.114805,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    NVDA,
+    relevance_score: 0.184834,
+    ticker_sentiment_score: 0.028314,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    PDD,
+    relevance_score: 0.123844,
+    ticker_sentiment_score: 0.265347,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.359881,
+    ticker_sentiment_score: 0.15433,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    TCTZF,
+    relevance_score: 0.06211,
+    ticker_sentiment_score: 0.09402,
+    ticker_sentiment_label: Neutral
+    
+    
+    ,
+    
+                                     TITLE                                      
+    Is SoundHound AI Stock a Buy?,
+                                      URL                                       
+    https://www.fool.com/investing/2024/12/22/is-soundhound-ai-a-buy/,
+    time_published: 20241222T091000,
+                                    AUTHORS                                     
+    
+    Jake Lerch
+    ,
+                                    SUMMARY                                     
+    2024 has been the year of the artificial intelligence ( AI ) boom. Mega-cap stocks like Nvidia and Broadcom have soared to incredible heights thanks to their exposure to the AI industry.However, the emerging AI sector includes more than just the giant chipmakers. it also includes AI application ...,
+    banner_image: https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F799581%2Fsoun-soundhound-ai-stock-market-investment.jpg&op=resize&w=700,
+                                     SOURCE                                     
+    Motley Fool,
+    category_within_source: n/a,
+    source_domain: www.fool.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Retail & Wholesale,
+    relevance_score: 0.333333
+    ,
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 0.266143
+    ,
+    
+                                     TOPIC                                      
+    Manufacturing,
+    relevance_score: 0.333333
+    ,
+    
+                                     TOPIC                                      
+    Earnings,
+    relevance_score: 0.94762
+    ,
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 0.333333
+    
+    ,
+    overall_sentiment_score: 0.212521,
+    overall_sentiment_label: Somewhat-Bullish,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    NVDA,
+    relevance_score: 0.071784,
+    ticker_sentiment_score: 0.237119,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.071784,
+    ticker_sentiment_score: 0.070381,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    AVGO,
+    relevance_score: 0.071784,
+    ticker_sentiment_score: 0.237119,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    SOUN,
+    relevance_score: 0.347614,
+    ticker_sentiment_score: 0.18338,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    DNUT,
+    relevance_score: 0.071784,
+    ticker_sentiment_score: -0.055917,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    AMZN,
+    relevance_score: 0.142989,
+    ticker_sentiment_score: 0.096157,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    HMC,
+    relevance_score: 0.071784,
+    ticker_sentiment_score: -0.055917,
+    ticker_sentiment_label: Neutral
+    
+    
+    ,
+    
+                                     TITLE                                      
+    This Powerhouse Vanguard ETF Could Turn $300 Per Month Into $1.2 Million. Here's How.,
+                                      URL                                       
+    https://www.fool.com/investing/2024/12/21/this-powerhouse-vanguard-etf-could-turn-300-per-mo/,
+    time_published: 20241221T160000,
+                                    AUTHORS                                     
+    
+    Katie Brockman
+    ,
+                                    SUMMARY                                     
+    Building an investment portfolio worth $1 million or more is a dream many people share, yet relatively few will achieve. In fact, when asked what a \high net worth\ looks like in a 2023 survey by Empower, the median response was $400,000 -- and 74% of survey participants believed they'd never ...,
+    banner_image: https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F801241%2Fhundred-dollar-bills.jpg&op=resize&w=700,
+                                     SOURCE                                     
+    Motley Fool,
+    category_within_source: n/a,
+    source_domain: www.fool.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Retail & Wholesale,
+    relevance_score: 0.333333
+    ,
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 1.0
+    ,
+    
+                                     TOPIC                                      
+    Manufacturing,
+    relevance_score: 0.333333
+    ,
+    
+                                     TOPIC                                      
+    Earnings,
+    relevance_score: 0.310843
+    ,
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 0.333333
+    
+    ,
+    overall_sentiment_score: 0.243906,
+    overall_sentiment_label: Somewhat-Bullish,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    MSFT,
+    relevance_score: 0.049835,
+    ticker_sentiment_score: 0.073352,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    NVDA,
+    relevance_score: 0.049835,
+    ticker_sentiment_score: 0.073352,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.099476,
+    ticker_sentiment_score: 0.077363,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    KO,
+    relevance_score: 0.049835,
+    ticker_sentiment_score: 0.070367,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    AMZN,
+    relevance_score: 0.049835,
+    ticker_sentiment_score: 0.070367,
+    ticker_sentiment_label: Neutral
+    
+    
+    ,
+    
+                                     TITLE                                      
+    3 No-Brainer AI Stocks to Buy Right Now,
+                                      URL                                       
+    https://www.fool.com/investing/2024/12/21/3-no-brainer-ai-stocks-to-buy-right-now/,
+    time_published: 20241221T105500,
+                                    AUTHORS                                     
+    
+    Geoffrey Seiler
+    ,
+                                    SUMMARY                                     
+    One of the biggest drivers in the market in 2024 was artificial intelligence ( AI ) , and there is good reason to believe that AI stocks can continue to lead the charge in 2025. Despite recent advancements, AI is still in the early innings and the technology will only get better with time.Let's ...,
+    banner_image: https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F801283%2Fgettyimages-1802285109.jpg&op=resize&w=700,
+                                     SOURCE                                     
+    Motley Fool,
+    category_within_source: n/a,
+    source_domain: www.fool.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 0.161647
+    ,
+    
+                                     TOPIC                                      
+    Manufacturing,
+    relevance_score: 0.5
+    ,
+    
+                                     TOPIC                                      
+    Earnings,
+    relevance_score: 0.905476
+    ,
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 0.5
+    
+    ,
+    overall_sentiment_score: 0.334483,
+    overall_sentiment_label: Somewhat-Bullish,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    SSNLF,
+    relevance_score: 0.048133,
+    ticker_sentiment_score: 0.217601,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    GOOG,
+    relevance_score: 0.190793,
+    ticker_sentiment_score: 0.079224,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    NVDA,
+    relevance_score: 0.282777,
+    ticker_sentiment_score: 0.328326,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.048133,
+    ticker_sentiment_score: 0.217601,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    AVGO,
+    relevance_score: 0.048133,
+    ticker_sentiment_score: 0.217601,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    INTC,
+    relevance_score: 0.048133,
+    ticker_sentiment_score: 0.217601,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    TSM,
+    relevance_score: 0.096091,
+    ticker_sentiment_score: 0.064031,
+    ticker_sentiment_label: Neutral
+    
+    
+    ,
+    
+                                     TITLE                                      
+    25% of Warren Buffett-Led Berkshire Hathaway's $299 Billion Portfolio Is Invested in Only 1 Stock,
+                                      URL                                       
+    https://www.fool.com/investing/2024/12/21/warren-buffett-berkshire-hathaway-billion-1-stock/,
+    time_published: 20241221T093000,
+                                    AUTHORS                                     
+    
+    Neil Patel
+    ,
+                                    SUMMARY                                     
+    Thanks to his unbelievable track record of compounding capital over many decades as the CEO of Berkshire Hathaway, Warren Buffett is probably the most closely watched investor out there. Everyone can learn a thing or two following his advice and actions.,
+    banner_image: https://g.foolcdn.com/editorial/images/801352/buffett21-tmf.png,
+                                     SOURCE                                     
+    Motley Fool,
+    category_within_source: n/a,
+    source_domain: www.fool.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 0.365926
+    ,
+    
+                                     TOPIC                                      
+    Earnings,
+    relevance_score: 0.451494
+    ,
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 0.5
+    ,
+    
+                                     TOPIC                                      
+    Finance,
+    relevance_score: 0.5
+    
+    ,
+    overall_sentiment_score: 0.308485,
+    overall_sentiment_label: Somewhat-Bullish,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.743681,
+    ticker_sentiment_score: 0.532713,
+    ticker_sentiment_label: Bullish
+    ,
+    
+                                     TICKER                                     
+    BRK-A,
+    relevance_score: 0.064623,
+    ticker_sentiment_score: 0.110121,
+    ticker_sentiment_label: Neutral
+    
+    
+    ,
+    
+                                     TITLE                                      
+    Will This Incredibly Cheap Artificial Intelligence  ( AI )  Stock Soar in 2025?,
+                                      URL                                       
+    https://www.fool.com/investing/2024/12/21/will-this-incredibly-cheap-artificial-intelligence/,
+    time_published: 20241221T082000,
+                                    AUTHORS                                     
+    
+    Harsh Chauhan
+    ,
+                                    SUMMARY                                     
+    This has turned out to be a forgettable year for Qorvo ( NASDAQ: QRVO ) investors as shares of the chipmaker are down 38% as of this writing, which is in stark contrast to the 23% gains clocked by the PHLX Semiconductor Sector index in 2024.Known primarily for supplying smartphone chips to the ...,
+    banner_image: https://media.ycharts.com/charts/9becf88be943d6abaae949e59053d510.png,
+                                     SOURCE                                     
+    Motley Fool,
+    category_within_source: n/a,
+    source_domain: www.fool.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 0.684621
+    ,
+    
+                                     TOPIC                                      
+    Manufacturing,
+    relevance_score: 0.5
+    ,
+    
+                                     TOPIC                                      
+    Earnings,
+    relevance_score: 0.999999
+    ,
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 0.5
+    
+    ,
+    overall_sentiment_score: 0.187501,
+    overall_sentiment_label: Somewhat-Bullish,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    QRVO,
+    relevance_score: 0.500902,
+    ticker_sentiment_score: 0.138624,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    SSNLF,
+    relevance_score: 0.205109,
+    ticker_sentiment_score: 0.193507,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.284106,
+    ticker_sentiment_score: 0.294729,
+    ticker_sentiment_label: Somewhat-Bullish
+    
+    
+    ,
+    
+                                     TITLE                                      
+    Spotify Stock Soars Over 100% in 2024: Is More Upside Ahead?,
+                                      URL                                       
+    https://www.zacks.com/stock/news/2386553/spotify-stock-soars-over-100-in-2024-is-more-upside-ahead,
+    time_published: 20241220T200000,
+                                    AUTHORS                                     
+    
+    Shuvra Shankar Dey
+    ,
+                                    SUMMARY                                     
+    With SPOT shares on a steady ascent, we assess its current performance to decide whether to invest now or wait for a potential pullback.,
+    banner_image: https://staticx-tuner.zacks.com/images/articles/main/b1/85663.jpg,
+                                     SOURCE                                     
+    Zacks Commentary,
+    category_within_source: n/a,
+    source_domain: www.zacks.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Retail & Wholesale,
+    relevance_score: 0.5
+    ,
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 0.365926
+    ,
+    
+                                     TOPIC                                      
+    Earnings,
+    relevance_score: 0.999966
+    ,
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 0.5
+    
+    ,
+    overall_sentiment_score: 0.368805,
+    overall_sentiment_label: Bullish,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    GOOG,
+    relevance_score: 0.041901,
+    ticker_sentiment_score: -0.066545,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.083687,
+    ticker_sentiment_score: -0.070001,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    SPOT,
+    relevance_score: 0.436691,
+    ticker_sentiment_score: 0.478815,
+    ticker_sentiment_label: Bullish
+    ,
+    
+                                     TICKER                                     
+    AMZN,
+    relevance_score: 0.083687,
+    ticker_sentiment_score: -0.070001,
+    ticker_sentiment_label: Neutral
+    
+    
+    ,
+    
+                                     TITLE                                      
+    Insights Into Apple's Performance Versus Peers In Technology Hardware, Storage & Peripherals Sector - Apple  ( NASDAQ:AAPL ) ,
+                                      URL                                       
+    https://www.benzinga.com/insights/news/24/12/42619018/insights-into-apples-performance-versus-peers-in-technology-hardware-storage-amp-peripherals-sector,
+    time_published: 20241220T150028,
+                                    AUTHORS                                     
+    
+    Benzinga Insights
+    ,
+                                    SUMMARY                                     
+    In today's rapidly evolving and fiercely competitive business landscape, it is crucial for investors and industry analysts to conduct comprehensive company evaluations.,
+    banner_image: https://www.benzinga.com/files/images/story/2024/1734706825_0.png,
+                                     SOURCE                                     
+    Benzinga,
+    category_within_source: Trading,
+    source_domain: www.benzinga.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Earnings,
+    relevance_score: 0.95493
+    ,
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 1.0
+    ,
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 0.5855
+    
+    ,
+    overall_sentiment_score: 0.24945,
+    overall_sentiment_label: Somewhat-Bullish,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.514619,
+    ticker_sentiment_score: 0.327197,
+    ticker_sentiment_label: Somewhat-Bullish
+    
+    
+    ,
+    
+                                     TITLE                                      
+    3 Key Reasons Why Disney is a Stock to Buy Ahead of 2025,
+                                      URL                                       
+    https://www.zacks.com/stock/news/2386192/3-key-reasons-why-disney-is-a-stock-to-buy-ahead-of-2025,
+    time_published: 20241220T132300,
+                                    AUTHORS                                     
+    
+    Vasundhara Sawalka
+    ,
+                                    SUMMARY                                     
+    DIS' streaming profitability, IP expansion and parks growth signal strong potential. With robust 2025 forecasts and strategic initiatives, now is the time to buy.,
+    banner_image: https://staticx-tuner.zacks.com/images/articles/main/de/39714.jpg,
+                                     SOURCE                                     
+    Zacks Commentary,
+    category_within_source: n/a,
+    source_domain: www.zacks.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Retail & Wholesale,
+    relevance_score: 0.5
+    ,
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 0.54554
+    ,
+    
+                                     TOPIC                                      
+    Earnings,
+    relevance_score: 0.928769
+    ,
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 0.5
+    
+    ,
+    overall_sentiment_score: 0.51963,
+    overall_sentiment_label: Bullish,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    NFLX,
+    relevance_score: 0.086245,
+    ticker_sentiment_score: 0.180074,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.129052,
+    ticker_sentiment_score: 0.206689,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    AMZN,
+    relevance_score: 0.129052,
+    ticker_sentiment_score: 0.206689,
+    ticker_sentiment_label: Somewhat-Bullish
+    
+    
+    ,
+    
+                                     TITLE                                      
+    Broadcom Expects Decade-Long AI Chip Boom as Big Tech Invest Billions - Broadcom  ( NASDAQ:AVGO ) ,
+                                      URL                                       
+    https://www.benzinga.com/trading-ideas/movers/24/12/42613368/broadcom-expects-decade-long-ai-chip-boom-as-big-tech-invest-billions,
+    time_published: 20241220T121150,
+                                    AUTHORS                                     
+    
+    Anusuya Lahiri
+    ,
+                                    SUMMARY                                     
+    Broadcom Inc AVGO chief Hock Tan expressed enormous conviction over the sustainability of the artificial intelligence frenzy as Alphabet Inc GOOG GOOGL Google, Meta Platforms Inc META and TikTok parent ByteDance splurged on designing custom processors that accelerate training and deployment of ...,
+    banner_image: https://cdn.benzinga.com/files/images/story/2024/12/20/broadcom-shutter3.jpeg?width=1200&height=800&fit=crop,
+                                     SOURCE                                     
+    Benzinga,
+    category_within_source: Trading,
+    source_domain: www.benzinga.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 0.972756
+    ,
+    
+                                     TOPIC                                      
+    Manufacturing,
+    relevance_score: 0.5
+    ,
+    
+                                     TOPIC                                      
+    Earnings,
+    relevance_score: 0.360215
+    ,
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 0.5
+    
+    ,
+    overall_sentiment_score: 0.083652,
+    overall_sentiment_label: Neutral,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    GOOG,
+    relevance_score: 0.240489,
+    ticker_sentiment_score: 0.140106,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    META,
+    relevance_score: 0.16171,
+    ticker_sentiment_score: 0.104207,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    NVDA,
+    relevance_score: 0.240489,
+    ticker_sentiment_score: 0.112163,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.240489,
+    ticker_sentiment_score: 0.112163,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    AVGO,
+    relevance_score: 0.585687,
+    ticker_sentiment_score: 0.214885,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    QCOM,
+    relevance_score: 0.16171,
+    ticker_sentiment_score: 0.014417,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    INTC,
+    relevance_score: 0.16171,
+    ticker_sentiment_score: 0.014417,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    AMD,
+    relevance_score: 0.16171,
+    ticker_sentiment_score: 0.121965,
+    ticker_sentiment_label: Neutral
+    
+    
+    ,
+    
+                                     TITLE                                      
+    3 BNY Mellon Mutual Funds to Enhance Your Portfolio Performance,
+                                      URL                                       
+    https://www.zacks.com/stock/news/2386117/3-bny-mellon-mutual-funds-to-enhance-your-portfolio-performance,
+    time_published: 20241220T115300,
+                                    AUTHORS                                     
+    
+    Zacks Equity Research
+    ,
+                                    SUMMARY                                     
+    Invest in BNY Mellon mutual funds like DREVX, MPISX and DLDRX for diversified growth and data-driven strategies.,
+    banner_image: https://staticx-tuner.zacks.com/images/articles/main/6a/353.jpg,
+                                     SOURCE                                     
+    Zacks Commentary,
+    category_within_source: n/a,
+    source_domain: www.zacks.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Life Sciences,
+    relevance_score: 0.25
+    ,
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 0.989041
+    ,
+    
+                                     TOPIC                                      
+    Manufacturing,
+    relevance_score: 0.25
+    ,
+    
+                                     TOPIC                                      
+    Energy & Transportation,
+    relevance_score: 0.25
+    ,
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 0.25
+    
+    ,
+    overall_sentiment_score: 0.36376,
+    overall_sentiment_label: Bullish,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    MSFT,
+    relevance_score: 0.069094,
+    ticker_sentiment_score: 0.050144,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    NVDA,
+    relevance_score: 0.069094,
+    ticker_sentiment_score: 0.050144,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.069094,
+    ticker_sentiment_score: 0.050144,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    CSCO,
+    relevance_score: 0.069094,
+    ticker_sentiment_score: 0.050144,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    T,
+    relevance_score: 0.069094,
+    ticker_sentiment_score: 0.050144,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    NEM,
+    relevance_score: 0.069094,
+    ticker_sentiment_score: 0.053155,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    EQT,
+    relevance_score: 0.069094,
+    ticker_sentiment_score: 0.053155,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    FCX,
+    relevance_score: 0.069094,
+    ticker_sentiment_score: 0.053155,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    MDT,
+    relevance_score: 0.069094,
+    ticker_sentiment_score: 0.050144,
+    ticker_sentiment_label: Neutral
+    
+    
+    ,
+    
+                                     TITLE                                      
+    5 Reasons Nvidia Stock Is Falling,
+                                      URL                                       
+    https://www.fool.com/investing/2024/12/20/5-reasons-nvidia-stock-is-falling/,
+    time_published: 20241220T104500,
+                                    AUTHORS                                     
+    
+    Travis Hoium
+    ,
+                                    SUMMARY                                     
+    Shares of Nvidia are starting to pull back, which may be a sign the market is thinking about the stock differently.,
+    banner_image: https://g.foolcdn.com/editorial/images/801638/market-crashing-through-floor.jpg,
+                                     SOURCE                                     
+    Motley Fool,
+    category_within_source: n/a,
+    source_domain: www.fool.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Retail & Wholesale,
+    relevance_score: 0.333333
+    ,
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 0.108179
+    ,
+    
+                                     TOPIC                                      
+    Manufacturing,
+    relevance_score: 0.333333
+    ,
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 0.333333
+    
+    ,
+    overall_sentiment_score: -0.253255,
+    overall_sentiment_label: Somewhat-Bearish,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    META,
+    relevance_score: 0.479683,
+    ticker_sentiment_score: -0.452905,
+    ticker_sentiment_label: Bearish
+    ,
+    
+                                     TICKER                                     
+    NVDA,
+    relevance_score: 0.608634,
+    ticker_sentiment_score: -0.368398,
+    ticker_sentiment_label: Bearish
+    ,
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.169676,
+    ticker_sentiment_score: -0.221755,
+    ticker_sentiment_label: Somewhat-Bearish
+    ,
+    
+                                     TICKER                                     
+    AVGO,
+    relevance_score: 0.169676,
+    ticker_sentiment_score: -0.221755,
+    ticker_sentiment_label: Somewhat-Bearish
+    ,
+    
+                                     TICKER                                     
+    AMD,
+    relevance_score: 0.169676,
+    ticker_sentiment_score: -0.221755,
+    ticker_sentiment_label: Somewhat-Bearish
+    ,
+    
+                                     TICKER                                     
+    AMZN,
+    relevance_score: 0.331765,
+    ticker_sentiment_score: -0.360885,
+    ticker_sentiment_label: Bearish
+    ,
+    
+                                     TICKER                                     
+    TSM,
+    relevance_score: 0.169676,
+    ticker_sentiment_score: -0.221755,
+    ticker_sentiment_label: Somewhat-Bearish
+    
+    
+    ,
+    
+                                     TITLE                                      
+    The S&P 500 Has Been Rallying Since the U.S. Election but Nvidia Has Been Struggling. Is It a Sign the Stock May Have Finally Peaked?,
+                                      URL                                       
+    https://www.fool.com/investing/2024/12/20/the-sp-500-has-been-rallying-since-the-us-election/,
+    time_published: 20241220T092500,
+                                    AUTHORS                                     
+    
+    David Jagielski
+    ,
+                                    SUMMARY                                     
+    The U.S. presidential election has proven to be a positive catalyst for the stock market. Since Nov. 5, the S&P 500 has risen by 5% as of Monday. But one stock that hasn't been doing well since then is Nvidia ( NASDAQ: NVDA ) , which has gone in the opposite direction, declining by more than ...,
+    banner_image: https://g.foolcdn.com/editorial/images/801013/person-working-on-a-laptop-with-an-ai-overlay.jpg,
+                                     SOURCE                                     
+    Motley Fool,
+    category_within_source: n/a,
+    source_domain: www.fool.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 1.0
+    ,
+    
+                                     TOPIC                                      
+    Manufacturing,
+    relevance_score: 0.5
+    ,
+    
+                                     TOPIC                                      
+    Earnings,
+    relevance_score: 0.769861
+    ,
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 0.5
+    
+    ,
+    overall_sentiment_score: 0.101803,
+    overall_sentiment_label: Neutral,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    MSFT,
+    relevance_score: 0.063763,
+    ticker_sentiment_score: 0.13476,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    NVDA,
+    relevance_score: 0.576289,
+    ticker_sentiment_score: 0.18742,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.127119,
+    ticker_sentiment_score: 0.125798,
+    ticker_sentiment_label: Neutral
+    
+    
+    ,
+    
+                                     TITLE                                      
+    Tesla Stock vs. Microsoft Stock: Billionaire Philippe Laffont Is Buying One and Selling the Other,
+                                      URL                                       
+    https://www.fool.com/investing/2024/12/20/tesla-stock-microsoft-stock-billionaire-buy-sell/,
+    time_published: 20241220T085500,
+                                    AUTHORS                                     
+    
+    Trevor Jennewine
+    ,
+                                    SUMMARY                                     
+    Telsa ( NASDAQ: TSLA ) shares have advanced 77% year to date, more than tripling the 23% return in the S&P 500 ( SNPINDEX: ^GSPC ) . But Microsoft ( NASDAQ: MSFT ) shares have advanced 16% year to date, underperforming the benchmark index by a wide margin.Billionaire Philippe Laffont apparently ...,
+    banner_image: https://g.foolcdn.com/editorial/images/801535/bull-and-bear-3.jpg,
+                                     SOURCE                                     
+    Motley Fool,
+    category_within_source: n/a,
+    source_domain: www.fool.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 0.365926
+    ,
+    
+                                     TOPIC                                      
+    Manufacturing,
+    relevance_score: 0.333333
+    ,
+    
+                                     TOPIC                                      
+    Earnings,
+    relevance_score: 0.997335
+    ,
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 0.333333
+    ,
+    
+                                     TOPIC                                      
+    Finance,
+    relevance_score: 0.333333
+    
+    ,
+    overall_sentiment_score: 0.294084,
+    overall_sentiment_label: Somewhat-Bullish,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    MSFT,
+    relevance_score: 0.703026,
+    ticker_sentiment_score: 0.46459,
+    ticker_sentiment_label: Bullish
+    ,
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.048919,
+    ticker_sentiment_score: 0.09213,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    TSLA,
+    relevance_score: 0.500227,
+    ticker_sentiment_score: 0.379174,
+    ticker_sentiment_label: Bullish
+    ,
+    
+                                     TICKER                                     
+    BAC,
+    relevance_score: 0.048919,
+    ticker_sentiment_score: 0.107896,
+    ticker_sentiment_label: Neutral
+    
+    
+    ,
+    
+                                     TITLE                                      
+    MKBHD's Smartphone Of The Year 2024 Is Here, And Apple Fans Won't Be Happy - Alphabet  ( NASDAQ:GOOG ) , Apple  ( NASDAQ:AAPL ) ,
+                                      URL                                       
+    https://www.benzinga.com/tech/24/12/42610669/mkbhds-smartphone-of-the-year-2024-is-here-and-apple-fans-wont-be-happy,
+    time_published: 20241220T083207,
+                                    AUTHORS                                     
+    
+    Ananya Gairola
+    ,
+                                    SUMMARY                                     
+    Marques Brownlee, also known as MKBHD, has announced the Samsung Electronics Co.'s SSNLF Galaxy S24 Ultra as his top smartphone pick for 2024. What Happened: In a video shared on Thursday, Brownlee praised the Galaxy S24 Ultra for its comprehensive excellence, including its screen, chip, battery, ...,
+    banner_image: https://cdn.benzinga.com/files/images/story/2024/12/20/Samsung-Galaxy-S24-Ultra.jpeg?width=1200&height=800&fit=crop,
+                                     SOURCE                                     
+    Benzinga,
+    category_within_source: News,
+    source_domain: www.benzinga.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Earnings,
+    relevance_score: 0.108179
+    ,
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 1.0
+    ,
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 0.108179
+    
+    ,
+    overall_sentiment_score: 0.2717,
+    overall_sentiment_label: Somewhat-Bullish,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    SSNLF,
+    relevance_score: 0.60415,
+    ticker_sentiment_score: 0.323533,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    GOOG,
+    relevance_score: 0.149656,
+    ticker_sentiment_score: 0.187892,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.428632,
+    ticker_sentiment_score: 0.174067,
+    ticker_sentiment_label: Somewhat-Bullish
+    
+    
+    ,
+    
+                                     TITLE                                      
+    Samsung One UI 6.1.1 Update Is Turning This Galaxy Series Phones Into Paperweights: Bricking, Random Reboots And Overheating Reported - Samsung Electronics Co  ( OTC:SSNLF ) ,
+                                      URL                                       
+    https://www.benzinga.com/tech/24/12/42608964/samsung-one-ui-6-1-1-update-is-turning-this-galaxy-series-phones-into-paperweights-bricking-random-reboots-a,
+    time_published: 20241220T042102,
+                                    AUTHORS                                     
+    
+    Ananya Gairola
+    ,
+                                    SUMMARY                                     
+    Samsung Electronics Co. SSNLF Galaxy S22 users face severe issues following the One UI 6.1.1 update. What Happened: Released in September 2024, the update has caused devices to become permanently bricked, with some users also experiencing random reboots and overheating problems.,
+    banner_image: https://cdn.benzinga.com/files/images/story/2024/12/19/Samsung-Galaxy-S22-Ultra.png?width=1200&height=800&fit=crop,
+                                     SOURCE                                     
+    Benzinga,
+    category_within_source: News,
+    source_domain: www.benzinga.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Earnings,
+    relevance_score: 0.360215
+    ,
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 1.0
+    
+    ,
+    overall_sentiment_score: -0.023984,
+    overall_sentiment_label: Neutral,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    SSNLF,
+    relevance_score: 0.662393,
+    ticker_sentiment_score: -0.32032,
+    ticker_sentiment_label: Somewhat-Bearish
+    ,
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.215894,
+    ticker_sentiment_score: 0.006841,
+    ticker_sentiment_label: Neutral
+    
+    
+    ,
+    
+                                     TITLE                                      
+    Apple  ( AAPL )  Rises As Market Takes a Dip: Key Facts,
+                                      URL                                       
+    https://www.zacks.com/stock/news/2385992/apple-aapl-rises-as-market-takes-a-dip-key-facts,
+    time_published: 20241219T224520,
+                                    AUTHORS                                     
+    
+    Zacks Equity Research
+    ,
+                                    SUMMARY                                     
+    Apple (AAPL) closed the most recent trading day at $249.79, moving +0.7% from the previous trading session.,
+    banner_image: https://staticx-tuner.zacks.com/images/default_article_images/default165.jpg,
+                                     SOURCE                                     
+    Zacks Commentary,
+    category_within_source: n/a,
+    source_domain: www.zacks.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Earnings,
+    relevance_score: 0.938793
+    ,
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 1.0
+    ,
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 0.266143
+    
+    ,
+    overall_sentiment_score: 0.203995,
+    overall_sentiment_label: Somewhat-Bullish,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.537213,
+    ticker_sentiment_score: 0.278429,
+    ticker_sentiment_label: Somewhat-Bullish
+    
+    
+    ,
+    
+                                     TITLE                                      
+    Disney Hits $2 Billion Domestic Box Office, Earns Top Honors: Global Box Office Projected To Reach $33 Billion In 2025 - Walt Disney  ( NYSE:DIS ) ,
+                                      URL                                       
+    https://www.benzinga.com/24/12/42603589/disney-hits-2-billion-domestic-box-office-wins-top-honors-global-box-office-2025-to-grow-8-to-33b-analyst-says,
+    time_published: 20241219T210238,
+                                    AUTHORS                                     
+    
+    Chris Katje
+    ,
+                                    SUMMARY                                     
+    The Walt Disney Company DIS takes top honors for domestic box office in 2024 and could be in store for a strong 2025 with a new analyst forecast calling for box office revenue to grow 8% in 2025, which is likely music to the ears of movie theater executives.,
+    banner_image: https://cdn.benzinga.com/files/images/story/2024/12/19/movie-theater-ai3.png?width=1200&height=800&fit=crop,
+                                     SOURCE                                     
+    Benzinga,
+    category_within_source: Trading,
+    source_domain: www.benzinga.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Retail & Wholesale,
+    relevance_score: 0.5
+    ,
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 0.5
+    
+    ,
+    overall_sentiment_score: 0.141791,
+    overall_sentiment_label: Neutral,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    SNEJF,
+    relevance_score: 0.111488,
+    ticker_sentiment_score: -0.573589,
+    ticker_sentiment_label: Bearish
+    ,
+    
+                                     TICKER                                     
+    CNK,
+    relevance_score: 0.111488,
+    ticker_sentiment_score: 0.105605,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.055881,
+    ticker_sentiment_score: -0.251995,
+    ticker_sentiment_label: Somewhat-Bearish
+    ,
+    
+                                     TICKER                                     
+    MVES,
+    relevance_score: 0.055881,
+    ticker_sentiment_score: 0.123898,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    PARA,
+    relevance_score: 0.111488,
+    ticker_sentiment_score: -0.573589,
+    ticker_sentiment_label: Bearish
+    ,
+    
+                                     TICKER                                     
+    AMC,
+    relevance_score: 0.111488,
+    ticker_sentiment_score: 0.105605,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    AWON,
+    relevance_score: 0.055881,
+    ticker_sentiment_score: 0.016006,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    CCZ,
+    relevance_score: 0.055881,
+    ticker_sentiment_score: 0.202965,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    AMZN,
+    relevance_score: 0.055881,
+    ticker_sentiment_score: -0.251995,
+    ticker_sentiment_label: Somewhat-Bearish
+    ,
+    
+                                     TICKER                                     
+    DIS,
+    relevance_score: 0.111488,
+    ticker_sentiment_score: 0.179942,
+    ticker_sentiment_label: Somewhat-Bullish
+    
+    
+    ,
+    
+                                     TITLE                                      
+    Can Dow Jones ETF Reverse From the Worst Losing Streak in 50 Years?,
+                                      URL                                       
+    https://www.zacks.com/stock/news/2385942/can-dow-jones-etf-reverse-from-the-worst-losing-streak-in-50-years,
+    time_published: 20241219T180000,
+                                    AUTHORS                                     
+    
+    Sanghamitra Saha
+    ,
+                                    SUMMARY                                     
+    The Dow Jones ETF has recorded the longest losing streak since 1978. Can it reverse the trend in 2025?,
+    banner_image: https://staticx-tuner.zacks.com/images/articles/main/f2/1072.jpg,
+                                     SOURCE                                     
+    Zacks Commentary,
+    category_within_source: n/a,
+    source_domain: www.zacks.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Life Sciences,
+    relevance_score: 0.2
+    ,
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 0.2
+    ,
+    
+                                     TOPIC                                      
+    Finance,
+    relevance_score: 0.2
+    ,
+    
+                                     TOPIC                                      
+    Economy - Monetary,
+    relevance_score: 0.310843
+    ,
+    
+                                     TOPIC                                      
+    Retail & Wholesale,
+    relevance_score: 0.2
+    ,
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 0.858979
+    ,
+    
+                                     TOPIC                                      
+    Manufacturing,
+    relevance_score: 0.2
+    
+    ,
+    overall_sentiment_score: 0.012075,
+    overall_sentiment_label: Neutral,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    MSFT,
+    relevance_score: 0.122581,
+    ticker_sentiment_score: 0.091318,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    NVDA,
+    relevance_score: 0.410697,
+    ticker_sentiment_score: 0.03925,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.122581,
+    ticker_sentiment_score: 0.091318,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    AVGO,
+    relevance_score: 0.242285,
+    ticker_sentiment_score: 0.076017,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    TSLA,
+    relevance_score: 0.182967,
+    ticker_sentiment_score: 0.065664,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    JNJ,
+    relevance_score: 0.122581,
+    ticker_sentiment_score: -0.030924,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    AMGN,
+    relevance_score: 0.122581,
+    ticker_sentiment_score: -0.030924,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    AMZN,
+    relevance_score: 0.122581,
+    ticker_sentiment_score: 0.091318,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    UNH,
+    relevance_score: 0.182967,
+    ticker_sentiment_score: -0.004616,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    MRVL,
+    relevance_score: 0.122581,
+    ticker_sentiment_score: 0.047882,
+    ticker_sentiment_label: Neutral
+    
+    
+    ,
+    
+                                     TITLE                                      
+    Dropbox Rises 40% in 6 Months: Is the Stock Still a Screaming Buy?,
+                                      URL                                       
+    https://www.zacks.com/stock/news/2385884/dropbox-rises-40-in-6-months-is-the-stock-still-a-screaming-buy,
+    time_published: 20241219T164300,
+                                    AUTHORS                                     
+    
+    Aniruddha Ganguly
+    ,
+                                    SUMMARY                                     
+    DBX's strong prospects, driven by an expanding AI-powered portfolio, as well as a solid partner base, make it a long-term pick.,
+    banner_image: https://staticx-tuner.zacks.com/images/articles/main/fc/854.jpg,
+                                     SOURCE                                     
+    Zacks Commentary,
+    category_within_source: n/a,
+    source_domain: www.zacks.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 0.796627
+    ,
+    
+                                     TOPIC                                      
+    Manufacturing,
+    relevance_score: 0.5
+    ,
+    
+                                     TOPIC                                      
+    Earnings,
+    relevance_score: 0.858979
+    ,
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 0.5
+    
+    ,
+    overall_sentiment_score: 0.423678,
+    overall_sentiment_label: Bullish,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    MSFT,
+    relevance_score: 0.288408,
+    ticker_sentiment_score: 0.419202,
+    ticker_sentiment_label: Bullish
+    ,
+    
+                                     TICKER                                     
+    ASAN,
+    relevance_score: 0.042122,
+    ticker_sentiment_score: 0.153035,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    GOOG,
+    relevance_score: 0.084127,
+    ticker_sentiment_score: 0.19057,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    NVDA,
+    relevance_score: 0.084127,
+    ticker_sentiment_score: 0.22193,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.167322,
+    ticker_sentiment_score: 0.290015,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    TEAM,
+    relevance_score: 0.042122,
+    ticker_sentiment_score: 0.2183,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    DBX,
+    relevance_score: 0.860826,
+    ticker_sentiment_score: 0.655963,
+    ticker_sentiment_label: Bullish
+    
+    
+    ,
+    
+                                     TITLE                                      
+    In-Depth Analysis: Apple Versus Competitors In Technology Hardware, Storage & Peripherals Industry - Apple  ( NASDAQ:AAPL ) ,
+                                      URL                                       
+    https://www.benzinga.com/insights/news/24/12/42592861/in-depth-analysis-apple-versus-competitors-in-technology-hardware-storage-amp-peripherals-industry,
+    time_published: 20241219T150030,
+                                    AUTHORS                                     
+    
+    Benzinga Insights
+    ,
+                                    SUMMARY                                     
+    In today's rapidly evolving and fiercely competitive business landscape, it is crucial for investors and industry analysts to conduct comprehensive company evaluations.,
+    banner_image: https://www.benzinga.com/files/images/story/2024/1734620427_0.png,
+                                     SOURCE                                     
+    Benzinga,
+    category_within_source: Markets,
+    source_domain: www.benzinga.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Earnings,
+    relevance_score: 0.875462
+    ,
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 1.0
+    ,
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 0.54554
+    
+    ,
+    overall_sentiment_score: 0.238557,
+    overall_sentiment_label: Somewhat-Bullish,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.511256,
+    ticker_sentiment_score: 0.267902,
+    ticker_sentiment_label: Somewhat-Bullish
+    
+    
+    ,
+    
+                                     TITLE                                      
+    EXCLUSIVE: Are Apple, Tesla 2025's Tech Titans Or Bubble Trouble? Kurv CEO Dishes On AI, Cloud And More - Tesla  ( NASDAQ:TSLA ) , Kurv Technology Titans Select ETF  ( NASDAQ:KQQQ ) ,
+                                      URL                                       
+    https://www.benzinga.com/trading-ideas/long-ideas/24/12/42577172/exclusive-are-apple-tesla-2025s-tech-titans-or-bubble-trouble-kurv-ceo-dishes-on-ai-clou,
+    time_published: 20241219T133228,
+                                    AUTHORS                                     
+    
+    Surbhi Jain
+    ,
+                                    SUMMARY                                     
+    \Investors should proceed with cautious optimism,\ Howard Chan, founder and CEO of Kurv Investment Management, told Benzinga in an exclusive interview. While tech leaders like Apple Inc. AAPL and Tesla Inc. TSLA boast strong fundamentals, Chan said their valuations are \stretched.\,
+    banner_image: https://cdn.benzinga.com/files/images/story/2024/12/19/Tesla-Apple-Elon-Musk-and-Tim-Cook.jpeg?width=1200&height=800&fit=crop,
+                                     SOURCE                                     
+    Benzinga,
+    category_within_source: Trading,
+    source_domain: www.benzinga.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 0.5
+    ,
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 0.538269
+    ,
+    
+                                     TOPIC                                      
+    Manufacturing,
+    relevance_score: 0.5
+    
+    ,
+    overall_sentiment_score: 0.27053,
+    overall_sentiment_label: Somewhat-Bullish,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    MSFT,
+    relevance_score: 0.195814,
+    ticker_sentiment_score: 0.241537,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    SSTK,
+    relevance_score: 0.098659,
+    ticker_sentiment_score: 0.15176,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.543004,
+    ticker_sentiment_score: 0.390078,
+    ticker_sentiment_label: Bullish
+    ,
+    
+                                     TICKER                                     
+    TSLA,
+    relevance_score: 0.543004,
+    ticker_sentiment_score: 0.390078,
+    ticker_sentiment_label: Bullish
+    
+    
+    ,
+    
+                                     TITLE                                      
+    Prediction: Warren Buffett Will Sell All of His Apple Stock in 2025,
+                                      URL                                       
+    https://www.fool.com/investing/2024/12/19/prediction-warren-buffett-will-sell-all-his-apple/,
+    time_published: 20241219T120000,
+                                    AUTHORS                                     
+    
+    Keithen Drury
+    ,
+                                    SUMMARY                                     
+    Apple ( NASDAQ: AAPL ) has been one of Berkshire Hathaway's ( NYSE: BRK.A ) ( NYSE: BRK.B ) most successful investments. However, there comes a time to move on from an investment, and I think Warren Buffett and his team are set up to do that in 2025.But why are they selling?,
+    banner_image: https://media.ycharts.com/charts/7762365795ba511124e6e37c6e6dbec1.png,
+                                     SOURCE                                     
+    Motley Fool,
+    category_within_source: n/a,
+    source_domain: www.fool.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 0.999976
+    ,
+    
+                                     TOPIC                                      
+    Earnings,
+    relevance_score: 0.995015
+    ,
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 0.5
+    ,
+    
+                                     TOPIC                                      
+    Finance,
+    relevance_score: 0.5
+    
+    ,
+    overall_sentiment_score: 0.161512,
+    overall_sentiment_label: Somewhat-Bullish,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.904419,
+    ticker_sentiment_score: 0.28731,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    BRK-A,
+    relevance_score: 0.0699,
+    ticker_sentiment_score: 0.0,
+    ticker_sentiment_label: Neutral
+    
+    
+    ,
+    
+                                     TITLE                                      
+    Is iShares Core S&P U.S. Growth ETF  ( IUSG )  a Strong ETF Right Now?,
+                                      URL                                       
+    https://www.zacks.com/stock/news/2385581/is-ishares-core-sp-us-growth-etf-iusg-a-strong-etf-right-now,
+    time_published: 20241219T112006,
+                                    AUTHORS                                     
+    
+    Zacks Equity Research
+    ,
+                                    SUMMARY                                     
+    Smart Beta ETF report for ...,
+    banner_image: https://staticx-tuner.zacks.com/images/default_article_images/default267.jpg,
+                                     SOURCE                                     
+    Zacks Commentary,
+    category_within_source: n/a,
+    source_domain: www.zacks.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 0.999999
+    ,
+    
+                                     TOPIC                                      
+    Manufacturing,
+    relevance_score: 0.333333
+    ,
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 0.333333
+    ,
+    
+                                     TOPIC                                      
+    Finance,
+    relevance_score: 0.333333
+    
+    ,
+    overall_sentiment_score: 0.323426,
+    overall_sentiment_label: Somewhat-Bullish,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    MSFT,
+    relevance_score: 0.118064,
+    ticker_sentiment_score: 0.067312,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    NVDA,
+    relevance_score: 0.118064,
+    ticker_sentiment_score: 0.067312,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.118064,
+    ticker_sentiment_score: 0.067312,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    MORN,
+    relevance_score: 0.118064,
+    ticker_sentiment_score: 0.226076,
+    ticker_sentiment_label: Somewhat-Bullish
+    
+    
+    ,
+    
+                                     TITLE                                      
+    21% of Warren Buffett's \Secret\ Portfolio Is Invested in These 3 ETFs. Are They Great Picks for 2025?,
+                                      URL                                       
+    https://www.fool.com/investing/2024/12/19/21-of-warren-buffetts-secret-portfolio-is-invested/,
+    time_published: 20241219T105000,
+                                    AUTHORS                                     
+    
+    Keith Speights
+    ,
+                                    SUMMARY                                     
+    Does Warren Buffett have a secret portfolio? Sort of. The holdings you see listed in Berkshire Hathaway's regulatory filings aren't the only ones attached to the legendary investor.In 1998, Berkshire acquired reinsurance company General Re, which in turn owned New England Asset Management ( NEAM ...,
+    banner_image: https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F801408%2Fbuffett2-tmf.jpg&op=resize&w=700,
+                                     SOURCE                                     
+    Motley Fool,
+    category_within_source: n/a,
+    source_domain: www.fool.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Life Sciences,
+    relevance_score: 0.166667
+    ,
+    
+                                     TOPIC                                      
+    Energy & Transportation,
+    relevance_score: 0.166667
+    ,
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 0.166667
+    ,
+    
+                                     TOPIC                                      
+    Finance,
+    relevance_score: 0.166667
+    ,
+    
+                                     TOPIC                                      
+    Retail & Wholesale,
+    relevance_score: 0.166667
+    ,
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 1.0
+    ,
+    
+                                     TOPIC                                      
+    Manufacturing,
+    relevance_score: 0.166667
+    
+    ,
+    overall_sentiment_score: 0.191797,
+    overall_sentiment_label: Somewhat-Bullish,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    MSFT,
+    relevance_score: 0.06515,
+    ticker_sentiment_score: 0.288022,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    NVDA,
+    relevance_score: 0.06515,
+    ticker_sentiment_score: 0.288022,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.06515,
+    ticker_sentiment_score: 0.288022,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    AVGO,
+    relevance_score: 0.06515,
+    ticker_sentiment_score: 0.038026,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    MS,
+    relevance_score: 0.06515,
+    ticker_sentiment_score: 0.048037,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    NVO,
+    relevance_score: 0.06515,
+    ticker_sentiment_score: 0.0,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    XOM,
+    relevance_score: 0.06515,
+    ticker_sentiment_score: 0.038026,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    HD,
+    relevance_score: 0.06515,
+    ticker_sentiment_score: 0.038026,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    AMZN,
+    relevance_score: 0.06515,
+    ticker_sentiment_score: 0.288022,
+    ticker_sentiment_label: Somewhat-Bullish
+    
+    
+    ,
+    
+                                     TITLE                                      
+    Billionaire Israel Englander Sells Apple Stock and Buys an Index Fund That Could Soar 180%, According to a Wall Street Analyst,
+                                      URL                                       
+    https://www.fool.com/investing/2024/12/19/billionaire-sell-apple-stock-buy-index-fund-soar/,
+    time_published: 20241219T102000,
+                                    AUTHORS                                     
+    
+    Trevor Jennewine
+    ,
+                                    SUMMARY                                     
+    Israel Englander is the CEO of Millennium Management, the second most profitable hedge fund in history as measured by net gains since inception, according to LCH Investment. In total, Millennium owns more than 6,000 stocks, index funds, and options, but Englander downsized one of his largest ...,
+    banner_image: https://g.foolcdn.com/editorial/images/801382/investor-71.jpg,
+                                     SOURCE                                     
+    Motley Fool,
+    category_within_source: n/a,
+    source_domain: www.fool.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Earnings,
+    relevance_score: 0.938793
+    ,
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 1.0
+    ,
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 0.999174
+    
+    ,
+    overall_sentiment_score: 0.243506,
+    overall_sentiment_label: Somewhat-Bullish,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    SPGI,
+    relevance_score: 0.04583,
+    ticker_sentiment_score: 0.045126,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.509589,
+    ticker_sentiment_score: 0.33064,
+    ticker_sentiment_label: Somewhat-Bullish
+    
+    
+    ,
+    
+                                     TITLE                                      
+    Apple Watch Faces Tough Competition As Huawei Drives 20% Surge In Wearables - Xiaomi  ( OTC:XIACF ) ,
+                                      URL                                       
+    https://www.benzinga.com/24/12/42570544/apple-watch-is-getting-a-run-for-its-money-as-chinese-tech-giants-led-by-huawei-lead-20-growth-in-global-wrist-wo,
+    time_published: 20241219T094602,
+                                    AUTHORS                                     
+    
+    Ananya Gairola
+    ,
+                                    SUMMARY                                     
+    Chinese tech giants are making substantial gains, challenging the dominance of established players like Apple Inc. AAPL in the global wrist-worn device market.,
+    banner_image: https://editorial-assets.benzinga.com/wp-content/uploads/2024/12/19035758/Screenshot-2024-12-19-at-2.27.50%E2%80%AFPM-1024x495.png,
+                                     SOURCE                                     
+    Benzinga,
+    category_within_source: News,
+    source_domain: www.benzinga.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 0.5
+    ,
+    
+                                     TOPIC                                      
+    Manufacturing,
+    relevance_score: 0.5
+    
+    ,
+    overall_sentiment_score: 0.251835,
+    overall_sentiment_label: Somewhat-Bullish,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    SSNLF,
+    relevance_score: 0.097457,
+    ticker_sentiment_score: 0.096014,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.28664,
+    ticker_sentiment_score: 0.308157,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    XIACY,
+    relevance_score: 0.097457,
+    ticker_sentiment_score: 0.164053,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    ON,
+    relevance_score: 0.097457,
+    ticker_sentiment_score: -0.026761,
+    ticker_sentiment_label: Neutral
+    
+    
+    ,
+    
+                                     TITLE                                      
+    2 Unstoppable Stocks to Buy and Hold for the Next Decade,
+                                      URL                                       
+    https://www.fool.com/investing/2024/12/19/2-unstoppable-stocks-to-buy-and-hold-for-the-next/,
+    time_published: 20241219T092000,
+                                    AUTHORS                                     
+    
+    Prosper Junior Bakiny
+    ,
+                                    SUMMARY                                     
+    What do Apple ( NASDAQ: AAPL ) and Vertex Pharmaceuticals ( NASDAQ: VRTX ) have in common? At first glance, not much. The former is a consumer tech leader while the latter operates in the biotech industry.One thing they do share, though, is that they've made their long-term shareholders happy.,
+    banner_image: https://g.foolcdn.com/editorial/images/800686/person-holding-a-smartphone-and-a-mug.jpg,
+                                     SOURCE                                     
+    Motley Fool,
+    category_within_source: n/a,
+    source_domain: www.fool.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Earnings,
+    relevance_score: 0.94762
+    ,
+    
+                                     TOPIC                                      
+    Life Sciences,
+    relevance_score: 0.5
+    ,
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 0.5
+    
+    ,
+    overall_sentiment_score: 0.299802,
+    overall_sentiment_label: Somewhat-Bullish,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    VRTX,
+    relevance_score: 0.382088,
+    ticker_sentiment_score: 0.380135,
+    ticker_sentiment_label: Bullish
+    ,
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.382088,
+    ticker_sentiment_score: 0.299238,
+    ticker_sentiment_label: Somewhat-Bullish
+    
+    
+    ,
+    
+                                     TITLE                                      
+    1 Unstoppable Stock That Could Join Nvidia, Apple, and Microsoft in the $3 Trillion Club in 2025,
+                                      URL                                       
+    https://www.fool.com/investing/2024/12/19/1-stock-nvidia-apple-microsoft-the-3-trillion-2025/,
+    time_published: 20241219T091700,
+                                    AUTHORS                                     
+    
+    Anthony Di Pizio
+    ,
+                                    SUMMARY                                     
+    American stock exchanges currently host eight American technology companies with valuations of $1 trillion or more, but only three have graduated into the $3 trillion club so far:Amazon ( NASDAQ: AMZN ) is the world's fourth-largest company, at this writing, with a market capitalization of $2.4 ...,
+    banner_image: https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F801150%2Famazon-web-services-revenue-and-growth-q3-2024.png&op=resize&w=700,
+                                     SOURCE                                     
+    Motley Fool,
+    category_within_source: n/a,
+    source_domain: www.fool.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Retail & Wholesale,
+    relevance_score: 0.333333
+    ,
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 0.986714
+    ,
+    
+                                     TOPIC                                      
+    Manufacturing,
+    relevance_score: 0.333333
+    ,
+    
+                                     TOPIC                                      
+    Earnings,
+    relevance_score: 0.99999
+    ,
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 0.333333
+    
+    ,
+    overall_sentiment_score: 0.256179,
+    overall_sentiment_label: Somewhat-Bullish,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    MSFT,
+    relevance_score: 0.036643,
+    ticker_sentiment_score: 0.278111,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    DTST,
+    relevance_score: 0.036643,
+    ticker_sentiment_score: 0.013766,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    META,
+    relevance_score: 0.036643,
+    ticker_sentiment_score: 0.109526,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    NVDA,
+    relevance_score: 0.036643,
+    ticker_sentiment_score: 0.278111,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.036643,
+    ticker_sentiment_score: 0.278111,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    AMZN,
+    relevance_score: 0.591736,
+    ticker_sentiment_score: 0.360373,
+    ticker_sentiment_label: Bullish
+    
+    
+    ,
+    
+                                     TITLE                                      
+    Apple Reportedly In Talks With Tencent, TikTok-Parent ByteDance To Roll Out AI Features In China - Tencent Holdings  ( OTC:TCEHY ) ,
+                                      URL                                       
+    https://www.benzinga.com/news/24/12/42569744/apple-reportedly-in-talks-with-tencent-tiktok-parent-bytedance-to-roll-out-ai-features-in-china,
+    time_published: 20241219T075645,
+                                    AUTHORS                                     
+    
+    Pooja Rajkumari
+    ,
+                                    SUMMARY                                     
+    Apple Inc. AAPL is reportedly engaging in discussions with Tencent TCEHY and TikTok's parent company, ByteDance, to integrate their AI models into iPhones sold in China. What Happened: The U.S. tech giant began incorporating OpenAI's ChatGPT into its devices earlier this month.,
+    banner_image: https://cdn.benzinga.com/files/images/story/2024/12/19/Apple-To-Argue-For-Dismissal-Of-DOJ-Anti_0.jpeg?width=1200&height=800&fit=crop,
+                                     SOURCE                                     
+    Benzinga,
+    category_within_source: News,
+    source_domain: www.benzinga.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 1.0
+    
+    ,
+    overall_sentiment_score: 0.172094,
+    overall_sentiment_label: Somewhat-Bullish,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.749166,
+    ticker_sentiment_score: 0.243844,
+    ticker_sentiment_label: Somewhat-Bullish
+    ,
+    
+                                     TICKER                                     
+    TCTZF,
+    relevance_score: 0.52706,
+    ticker_sentiment_score: 0.151065,
+    ticker_sentiment_label: Somewhat-Bullish
+    
+    
+    ,
+    
+                                     TITLE                                      
+    Apple Slams Meta's Interoperability Demands, Cites Privacy Risks - Instagram Parent Fires Back: Cupertino's Assertions Have 'No Basis In Reality' - Meta Platforms  ( NASDAQ:META ) ,
+                                      URL                                       
+    https://www.benzinga.com/media/24/12/42569325/apple-slams-metas-interoperability-demands-cites-privacy-risks-instagram-parent-fires-back-cupertinos-asser,
+    time_published: 20241219T071032,
+                                    AUTHORS                                     
+    
+    Ananya Gairola
+    ,
+                                    SUMMARY                                     
+    Apple Inc. AAPL has slammed Meta Platforms, Inc. META for its numerous requests to access iPhone-maker's software tools, citing potential privacy and security risks. What Happened: Under the EU's Digital Markets Act, Apple is required to allow competitors and app developers to inter-operate with ...,
+    banner_image: https://cdn.benzinga.com/files/images/story/2024/12/19/Apple-To-Argue-For-Dismissal-Of-DOJ-Anti.jpeg?width=1200&height=800&fit=crop,
+                                     SOURCE                                     
+    Benzinga,
+    category_within_source: News,
+    source_domain: www.benzinga.com,
+                                     TOPICS                                     
+    
+    
+                                     TOPIC                                      
+    Technology,
+    relevance_score: 1.0
+    ,
+    
+                                     TOPIC                                      
+    Financial Markets,
+    relevance_score: 0.108179
+    
+    ,
+    overall_sentiment_score: -0.041045,
+    overall_sentiment_label: Neutral,
+    ticker_sentiment:
+    
+                                     TICKER                                     
+    META,
+    relevance_score: 0.167322,
+    ticker_sentiment_score: -0.129191,
+    ticker_sentiment_label: Neutral
+    ,
+    
+                                     TICKER                                     
+    AAPL,
+    relevance_score: 0.754753,
+    ticker_sentiment_score: -0.184071,
+    ticker_sentiment_label: Somewhat-Bearish
+    
+    
+    
+    
+    
