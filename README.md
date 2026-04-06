@@ -91,8 +91,7 @@ No additional installation required.
 
 ## Demo Video
 
-https://youtu.be/u8fyB1J_d4Q
-
+https://youtu.be/6Pe_kAIO26g
 ---
 
 ## Project Motivation
